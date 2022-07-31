@@ -1,5 +1,7 @@
-#Hw Assignment One
-##Description
+# Hw Assignment One
+
+## Description
+
 Reconfigure a website using semantic HTML and follow accessibility guidelines.
 
 Project Goals:
